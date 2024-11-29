@@ -13,7 +13,7 @@ color: rgb(42, 122, 228);
 }
 
 section{
-backgroud: rgb(184, 156, 213) ;
+background: rgb(184, 156, 213) ;
 padding-bottom: 80px;
 padding-top: 80px
 display: flex;
@@ -21,11 +21,11 @@ justify-content: center;
 }
 
 .chamada-texto{
-margin-rigtht:5%;
+margin right: ;:5%;
 }
 
 h1 {
-font-seze: 40px;
+font-size: 40px;
 
 }
 
